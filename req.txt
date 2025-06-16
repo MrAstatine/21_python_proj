@@ -2,3 +2,4 @@ cryptography
 windows-curses
 playsound==1.2.2
 requests
+pytube
